@@ -1,0 +1,30 @@
+#console2 {
+        height: 570px;
+        background: #000;
+        margin-bottom: 15px;
+        padding: 15px 15px;
+        width: 1326px;
+    }
+    #console2 pre {
+        color: #fff;
+        font-family:'Monaco', courier, monospace;
+        line-height: 1.5;
+        overflow: hidden;
+    }
+    #console2 pre a {
+        font-weight: bold;
+        color: #fff;
+        text-decoration: underline;
+    }
+    #console2 .keyword {
+        color: #ec77b4;
+    }
+    #console2 .string {
+        color: #ff8714;
+    }
+    #console2 .function {
+        color: #96c9ff;
+    }
+    #console2 .variable {
+        color: #ffd67d;
+    }
